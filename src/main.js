@@ -6,6 +6,8 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+import {con} from './connn'
+
 console.log("A")
 console.log('B') 
 
