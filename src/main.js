@@ -6,6 +6,8 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+consoel.log('B')
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
